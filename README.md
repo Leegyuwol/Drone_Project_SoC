@@ -1,1 +1,2 @@
-# Drone_Project_SoC
+# SoC_Drone
+Drone using SoC FPGA
